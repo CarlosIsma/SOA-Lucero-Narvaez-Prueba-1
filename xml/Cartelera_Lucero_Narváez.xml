@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<cartelera>
+    <pelicula>
+        <codigo>Película 001</codigo>
+        <titulo>The Fate of the Furious</titulo>
+        <anio>2017</anio>
+        <duracion>
+            <horas>2h</horas>
+            <minutos>29m</minutos>
+            <segundos>00seg</segundos>
+        </duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <genero>Acción, Aventura, Suspenso, Crimen</genero>
+        <clasificacion>PG-13</clasificacion>
+        <director>
+            <nombre>F. Gary</nombre>
+            <apellido>Gray</apellido>
+            <fechaNacimiento>
+                <anio>1969</anio>
+                <mes>Julio</mes>
+                <dia>17</dia>
+            </fechaNacimiento>
+        </director>
+        <reparto>
+            <actoresPrincipales>
+                <nombreOriginal>Vin Diesel</nombreOriginal>
+                <nombrePelicula>Dominic "Dom" Toretto</nombrePelicula>
+            </actoresPrincipales>
+            <actoresSecundarios>
+                <nombreOriginal>Dwayne Johnson</nombreOriginal>
+                <nombrePelicula>Lucas "Luke" Hobbs</nombrePelicula>
+            </actoresSecundarios>
+            <dobles>
+                <nombreOriginal>Idzi Dutkiewicz</nombreOriginal>
+                <nombrePelicula>Dominic "Dom" Toretto</nombrePelicula>
+            </dobles>
+        </reparto>
+        <sinopsis>Con Dom y Letty de luna de miel, Brian y Mia retirados 
+            y el resto de la pandilla viviendo en paz, parece que todo está 
+            tranquilo. Sin embargo, una misteriosa mujer seducirá a Dom para 
+            adentrarlo en el mundo del crimen y traicionar a la pandilla. 
+            Ahora tendrán que unirse para traer a casa al hombre que los 
+            convirtió en una familia y detener a Cipher de desatar el caos.</sinopsis>
+    </pelicula>
+    
+</cartelera>
